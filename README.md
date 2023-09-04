@@ -10,4 +10,4 @@
 ![Alt text]([url=https://ibb.co/88NKChv][img]https://i.ibb.co/XJj2Qw0/add-jpg.jpg[/img][/url])
 
 # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
-![Alt text]([url=https://ibb.co/rxH3Jms][img]https://i.ibb.co/1rTMxL6/remove-jpg.jpg[/img][/url])
+![Alt text](https://i.ibb.co/1rTMxL6/remove-jpg.jpg)
